@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>CrispVoice</title>
         <item>
+            <title>0.3.3</title>
+            <pubDate>Tue, 06 Oct 2026 09:21:07 -0400</pubDate>
+            <link>https://mweisberg21.github.io/crispvoice-downloads/</link>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="IIBc78x7aXdzNEKiGbl82Er5x4ofaSRMVE3PLKt7DbZYx5nEtPhRiH3RktrXCVXI3/4UtQruBZmJvLu4qor1DQ==" sparkle:length="1358">https://mweisberg21.github.io/crispvoice-downloads/updates/CrispVoice-0.3.3-21.md</sparkle:releaseNotesLink>
+            <enclosure url="https://mweisberg21.github.io/crispvoice-downloads/updates/CrispVoice-0.3.3-21.dmg" length="26531131" type="application/octet-stream" sparkle:edSignature="11PM5beetymTRF4rSFt1DBFum3otr3rsI8AWMCdZy6JhcHmLjxqIbeNmQDSbqXNnsU1zbVmCbA2iAjiGDcpmCA=="/>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Mon, 05 Oct 2026 10:12:24 -0400</pubDate>
             <link>https://mweisberg21.github.io/crispvoice-downloads/</link>
@@ -28,6 +38,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ZjKn/45jef3l8CooQJVkHCGMWn97wvkq8i6RJRKP/HRtSRlf+mCvCpCSy8499otuCY8fcWuuqmtIgAGrHMZ+Bw==
-length: 2354
+edSignature: GksnTMWWjE3w+Z5gCAPUl3PvtX3x4Q1KENty5uUm6SuTheNOKzSrFta9EOvd8PtQR78oub/2lTu28VfE6Z5fBw==
+length: 3316
 -->
